@@ -1,5 +1,5 @@
 # Shadows of Vukk: Stealth & Shootout
- A game created for the ***Ride With The Outlaws*** game jam from *CharacterXYZ*
+ A game created for the ***Ride With The Outlaws*** game jam from *CharacterXYZ* https://itch.io/jam/ride-with-the-outlaws
 
  **Made With Unity**
  
